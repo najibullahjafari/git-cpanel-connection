@@ -1,5 +1,5 @@
 
-# Here you will  know how to connect your github repository with cpanel.
+# Here you will  know how to connect your GitHub repository with cpanel.
 
 ### 1- Generate an SSH Key
 
